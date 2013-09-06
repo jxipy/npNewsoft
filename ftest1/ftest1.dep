@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by ftest1.mak
+
+.\ftest1.cpp : \
+	".\ftest1.h"\
+	".\ftest1Dlg.h"\
+	".\StdAfx.h"\
+	
+
+.\ftest1.rc : \
+	".\res\ftest1.ico"\
+	".\res\ftest1.rc2"\
+	
+
+.\ftest1Dlg.cpp : \
+	".\ftest1.h"\
+	".\ftest1Dlg.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
